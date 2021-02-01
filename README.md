@@ -16,6 +16,10 @@
 ### I am installing the model I trained for you, if you want to use it, all you have to do is throw the file where the code is and run it by saying play. 
 ## LINK = https://dosya.co/j9zq9qje94l0/trex_weight.h5.html
 
+### The data you collect is recorded as in the example I left below.
 
+![down_420e3ffa-b45b-4644-ace1-a2074b6bb72c_107](https://user-images.githubusercontent.com/69467096/106516268-da711880-64e7-11eb-960b-98451451b261.png)
+![down_420e3ffa-b45b-4644-ace1-a2074b6bb72c_108](https://user-images.githubusercontent.com/69467096/106516269-db09af00-64e7-11eb-813d-ddf9da9f67a7.png)
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
